@@ -4,9 +4,9 @@ Outil permettant de lancer automatiquement des conflits frontaliers en boucle su
 ## Pré-requis
 
  - TOF lancé en plein écran en résolution 1920x1080,
- - clavier configuré en QWERTY avec les touches du jeu par défaut
-     => si vous avez besoin d'ajouter le mode QWERTY sur windows, allez dans menu démarrer -> paramètres -> heure et langue -> langue. Vous pouvez ensuite utiliser le raccourci clavier "touche windows" + "barre espace" pour switcher entre clavier AZERTY et QWERTY.
+ - clavier configuré en QWERTY avec les touches du jeu par défaut.
 
+Si vous avez besoin d'ajouter le mode QWERTY sur windows, allez dans menu démarrer -> paramètres -> heure et langue -> langue. Vous pouvez ensuite utiliser le raccourci clavier "touche windows" + "barre espace" pour switcher entre clavier AZERTY et QWERTY.
 
 ## Comment l'executer
 
