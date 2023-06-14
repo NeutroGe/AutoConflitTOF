@@ -12,7 +12,7 @@ Si vous avez besoin d'ajouter le mode QWERTY sur windows, allez dans menu démar
 
 1°) le plus simple : télécharger l'exe compilé directement en cliquant sur le lien "v1.0" sur la droite de cette page puis sur "conflit_fronta_auto.exe". Il arrive parfois que Windows defender identifie à tord les programmes compilés de ce type comme des virus (faux positif). Si c'est le cas et que cela vous fait peur, vous pouvez à la place utiliser la méthode ci-dessous pour compiler vous-même directement le programme à partir du code souce.
 
-2°) un peu plus long mais sans alerte de sécurité : compiler vous-même le programme.
+2°) Si vous souhaitez à la place compiler vous-même le programme : 
 
 Pour cela téléchargez ces 2 fichiers (les deux sont légers) :
 
