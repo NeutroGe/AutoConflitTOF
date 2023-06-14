@@ -27,8 +27,11 @@ Une fois les programmes installés, téléchargez le fichier "conflit_fronta_aut
 ## Mode d'emploi
 
 1°) vérifiez que votre jeu est bien lancé en plein écran en résolution 1920x1080, que votre clavier sous windows est configuré en QWERTY et que vos touches du jeu sont les touches par défaut.
+
 2°) dans le jeu il faut que l'écran de base du jeu soit affiché (comme lorsque vous êtes afk quelque part dans le monde en open world).
+
 3°) executez le programme puis cliquez rapidement sur la fenêtre du jeu pour qu'elle devienne la fenêtre windows active (il y a 5 secondes de délai entre le moment où vous lancez le programme et le moment où celui-ci commence à lancer automatiquement des conflits frontaliers.
+
 4°) ne touchez plus à rien et le programme va automatiquement lancer des conflits frontaliers en boucle. Appuyez sur F6 pour arrêter le programme.
 
 PS : il n'y a pas d'interface graphique, la seule façon de voir si le programme est lancé ou non est que lorsque celui-ci est executé son icône apparait dans la barre des tâches windows (appuyer sur F6 quitte le programme).
