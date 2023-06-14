@@ -14,7 +14,7 @@ Si vous avez besoin d'ajouter le mode QWERTY sur windows, allez dans menu démar
 
 2°) Si vous souhaitez à la place compiler vous-même le programme : 
 
-Pour cela téléchargez ces 2 fichiers (les deux sont légers) :
+Téléchargez ces 2 fichiers (les deux sont légers) :
 
 https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip  (compilateur) 
 
